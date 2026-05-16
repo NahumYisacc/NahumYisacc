@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Nahum
 
-<!--
-**NahumYisacc/NahumYisacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Cloud Support Engineer based in Dallas, Texas. I'm building hands‑on AWS projects to strengthen my cloud fundamentals and prepare for a cloud support or junior cloud engineering role.
 
-Here are some ideas to get you started:
+## About Me
+- AWS Cloud Practitioner certified
+- Getting my Associate’s degree in General Science in June 2026
+- Getting my Associate’s degree in Liberal Arts – Social & Behavioral Science in June 2026
+- Working toward my Bachelor’s degree in Human‑Centered AI (expected May 2027)
+- Open to both on‑site and remote roles
+- Focused on cloud support, monitoring, troubleshooting, and AWS best practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+I’m building real AWS projects to demonstrate practical skills, including:
+- S3 static website hosting
+- EC2 server setup and troubleshooting
+- IAM user and permission management
+- CloudWatch monitoring and alarms
+
+Each project includes documentation, screenshots, and explanations of what I learned.
+
+## Skills
+- AWS: S3, EC2, IAM, CloudWatch
+- Linux basics and EC2 troubleshooting
+- MFA and IAM security best practices
+- Monitoring and alerting
+- Least‑privilege access design
+- Writing clear technical documentation
+
+## My AWS Projects
+Here are the projects I'm most proud of:
+
+- AWS S3 Static Website Project
+- AWS EC2 Web Server Project
+- AWS CloudWatch Monitoring Project
+- AWS IAM User Permissions Project
+
+
+
+## Goals
+My next steps:
+- Build more AWS Free Tier projects
+- Strengthen troubleshooting and support workflows
+- Land a cloud support role with long‑term growth into cloud engineering
+- Continue progressing toward cloud engineering
+
+Thanks for visiting my profile.
