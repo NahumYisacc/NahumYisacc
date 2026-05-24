@@ -30,10 +30,17 @@ Each project includes documentation, screenshots, and explanations of what I lea
 ## My AWS Projects
 Here are the projects I'm most proud of:
 
-- AWS S3 Static Website Project
-- AWS EC2 Web Server Project
-- AWS CloudWatch Monitoring Project
-- AWS IAM User Permissions Project
+  AWS S3 Static Website Project
+  https://github.com/NahumYisacc/aws-s3-static-website
+  
+  AWS EC2 Web Server Project
+  https://github.com/NahumYisacc/aws-ec2-linux-web-server-project
+
+  AWS CloudWatch Monitoring Project
+  https://github.com/NahumYisacc/aws-cloudwatch-cpu-utilization-alarm
+
+  AWS IAM User Permissions Project
+  https://github.com/NahumYisacc/aws-iam-user-permissions-project
 
 
 
