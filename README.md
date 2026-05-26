@@ -17,6 +17,8 @@ I’m building real AWS projects to demonstrate practical skills, including:
 - IAM user and permission management
 - CloudWatch monitoring and alarms
 - AI prompt‑engineering project analyzing how different prompts affect summary quality
+- IT & Cloud Troubleshooting Playbook documenting real-world steps for diagnosing network, VPN, MFA, device, and AWS issues
+
 
 Each project includes documentation, screenshots, and explanations of what I learned.
 
@@ -47,6 +49,8 @@ Here are the projects I'm most proud of:
  https://github.com/NahumYisacc/ai-prompt-testing-notebook
 
 
+ IT & Cloud Troubleshooting Playbook
+https://github.com/NahumYisacc/it-troubleshooting-playbook
 
 
 
