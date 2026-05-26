@@ -16,6 +16,7 @@ I’m building real AWS projects to demonstrate practical skills, including:
 - EC2 server setup and troubleshooting
 - IAM user and permission management
 - CloudWatch monitoring and alarms
+- AI prompt‑engineering project analyzing how different prompts affect summary quality
 
 Each project includes documentation, screenshots, and explanations of what I learned.
 
@@ -27,7 +28,7 @@ Each project includes documentation, screenshots, and explanations of what I lea
 - Least‑privilege access design
 - Writing clear technical documentation
 
-## My AWS Projects
+## My AWS/AI Projects
 Here are the projects I'm most proud of:
 
   AWS S3 Static Website Project
@@ -42,6 +43,13 @@ Here are the projects I'm most proud of:
   AWS IAM User Permissions Project
   https://github.com/NahumYisacc/aws-iam-user-permissions-project
 
+ AI Prompt Testing Notebook Project
+ https://github.com/NahumYisacc/ai-prompt-testing-notebook
+
+
+
+
+
 
 
 ## Goals
@@ -50,5 +58,6 @@ My next steps:
 - Strengthen troubleshooting and support workflows
 - Land a cloud support role with long‑term growth into cloud engineering
 - Continue progressing toward cloud engineering
+- Expand AI skills by building small prompt‑engineering and automation projects that support cloud workflows
 
 Thanks for visiting my profile.
