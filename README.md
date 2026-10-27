@@ -1,6 +1,6 @@
 # Hi, I'm Nahum
 
-I'm an aspiring Cloud Support Engineer based in Dallas, Texas. I'm building hands‑on AWS projects to strengthen my cloud fundamentals and prepare for a cloud support or junior cloud engineering role.
+Computing Applications student with a strong interest in technology, analytics, and emerging technologies. Motivated problem-solver with experience working on technical projects and applying technology to real-world challenges. Eager to continue learning, develop new skills, and contribute to innovative teams and projects
 
 ## About Me
 - AWS Cloud Practitioner certified
